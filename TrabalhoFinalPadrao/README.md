@@ -1,13 +1,16 @@
 ----Sistema de Controle de Biblioteca----
 
 ----Objetivo----
+
 Desenvolver uma aplicação Java aplicando três padrões de projeto distintos, de forma correta e
 contextualizada, demonstrando sua utilidade no design orientado a objetos.
 
 ----Tema Escolhido----
+
 Sistema de Controle de Biblioteca
 
 ----Padrões de Projeto Aplicados----
+
 1. Singleton - BibliotecaDatabase
 Propósito: Garante que haja apenas uma instância da "base de dados" na aplicação.
 Utilidade: Centraliza o gerenciamento de livros, simulando uma base de dados.
@@ -27,6 +30,7 @@ Onde é aplicado: Na classe Emprestimo , que armazena observadores e os notifica
 mensagens de devolução.
 
 ----Arquitetura Geral----
+
 Main : Ponto de entrada da aplicação.
 BibliotecaDatabase : Gerencia os livros (Singleton).
 Livro , LivroComum , LivroReferencia : Hierarquia de livros.

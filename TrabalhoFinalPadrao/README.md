@@ -32,10 +32,15 @@ mensagens de devolução.
 ----Arquitetura Geral----
 
 Main : Ponto de entrada da aplicação.
+
 BibliotecaDatabase : Gerencia os livros (Singleton).
+
 Livro , LivroComum , LivroReferencia : Hierarquia de livros.
+
 LivroFactory : Cria livros conforme o tipo.
+
 Usuario : Representa um observador (Observer).
+
 Emprestimo : Controla o empréstimo de livros e notifica os usuários.
 
 

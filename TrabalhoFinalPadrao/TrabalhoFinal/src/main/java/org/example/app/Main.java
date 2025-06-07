@@ -9,7 +9,6 @@ import org.example.observer.Emprestimo;
 import java.util.List;
 import java.util.Scanner;
 
-// ---------------------- Simulação Real ----------------------
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

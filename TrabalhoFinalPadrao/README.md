@@ -51,3 +51,10 @@ Emprestimo : Controla o empréstimo de livros e notifica os usuários.
 
 ![image](https://github.com/user-attachments/assets/8e824824-fdca-4400-a7c7-5170ed4b37b6)
 
+----Considerações Finais----
+ 
+O projeto ilustra a aplicação de três padrões de projeto de forma clara e funcional.
+
+A utilização dos padrões melhora a manutenção, flexibilidade e organização do código.
+
+A aplicação pode ser expandida com interface gráfica ou persistência real (JDBC, JPA)

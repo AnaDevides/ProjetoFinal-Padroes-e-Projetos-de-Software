@@ -43,5 +43,7 @@ Usuario : Representa um observador (Observer).
 
 Emprestimo : Controla o empréstimo de livros e notifica os usuários.
 
+----UML SIMPLIFICADO----
+
 ![image](https://github.com/user-attachments/assets/8e824824-fdca-4400-a7c7-5170ed4b37b6)
 
